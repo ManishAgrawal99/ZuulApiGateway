@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: student
+    
+server:
+  port: 8090    
+    
